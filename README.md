@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muzammil Kureshi</h1>
-<h3 align="center">Frontend Developer | React & Redux Toolkit Learner 🚀</h3>
+<h3 align="center">Frontend Developer 🚀</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🌱 Currently learning **Redux Toolkit & RTK Query**
-* ⚛️ Building projects using **React.js**
+* 🌱 Currently learning **NodeJS | Express | RestApi**
+* ⚛️ Building projects using **React with TypeScript**
 * 🎯 Goal: Become a Professional Frontend Developer
 * 💡 Love creating responsive UI & modern web apps
 
@@ -18,10 +18,11 @@
 
 * HTML
 * CSS
-* JavaScript
-* React.js
 * Tailwind CSS
-
+* JavaScript
+* TypeScript
+* React.js
+* 
 **State Management**
 
 * Redux Toolkit
@@ -32,6 +33,8 @@
 * Git
 * GitHub
 * VS Code
+* Cursor
+* Antigrevity
 * Chrome DevTools
 
 ---
