@@ -50,7 +50,7 @@
 ## 🔗 Connect With Me
 
 * LinkedIn: [(https://www.linkedin.com/in/muzammil-kureshi-0395432a5 )]
-* Portfolio:
+* Portfolio:[(https://www.muzammildev.online)]
 
 ---
 
